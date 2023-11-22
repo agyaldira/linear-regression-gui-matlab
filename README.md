@@ -1,1 +1,5 @@
-# linear-regression-gui-matlab
+# Simple Linear Regression Analysis (GUI MATLAB)
+
+In a simple linear regression analysis, we explore the relationship between two variables through a case study involving life expectancy and the Human Development Index (HDI). Life expectancy serves as the dependent variable, reflecting the average number of years a person is expected to live, while the HDI acts as the independent variable, encapsulating a composite index of a nation's social and economic development. The objective is to understand the extent to which changes in the HDI can predict variations in life expectancy.
+
+Through this analysis, we aim to uncover insights into the impact of human development on life expectancy, providing a quantitative basis for evaluating the association between these key indicators. The regression model will enable us to ascertain whether a linear relationship exists between the HDI and life expectancy, and if so, to what degree one variable can be used to predict the other. This study contributes valuable information for policymakers and researchers interested in understanding the dynamics of societal progress and its implications for population health.
